@@ -1,12 +1,7 @@
 # Coursera
 
-
-![image][Coursera 2H2SWSJHDWJK.pdf](https://github.com/charge1203/Coursera/files/13445629/Coursera.2H2SWSJHDWJK.pdf)
-
-![image][Coursera 9GBLPE7HYUX4.pdf](https://github.com/charge1203/Coursera/files/13445630/Coursera.9GBLPE7HYUX4.pdf)
-
-![image][Coursera 58UW6JVJM867.pdf](https://github.com/charge1203/Coursera/files/13445631/Coursera.58UW6JVJM867.pdf)
-
-![image][Coursera EYA8DJ5AGSBG.pdf](https://github.com/charge1203/Coursera/files/13445632/Coursera.EYA8DJ5AGSBG.pdf)
-
-![image][Coursera KJ46KLRX2UD8.pdf](https://github.com/charge1203/Coursera/files/13445633/Coursera.KJ46KLRX2UD8.pdf)
+![Coursera KJ46KLRX2UD8_page-0001](https://github.com/charge1203/Coursera/assets/102739179/c658ab14-6c5e-4e61-9bf8-7b06fc3e43eb)
+![Coursera EYA8DJ5AGSBG_page-0001](https://github.com/charge1203/Coursera/assets/102739179/ae7dda17-279e-4749-955d-eb1ba2e9c134)
+![Coursera 58UW6JVJM867_page-0001](https://github.com/charge1203/Coursera/assets/102739179/ad1eece4-79ff-469d-a162-d2dc2f26c18f)
+![Coursera 9GBLPE7HYUX4_page-0001](https://github.com/charge1203/Coursera/assets/102739179/0dc66cd7-7b0b-4ac2-9aee-fd9e49d7da19)
+![Coursera 2H2SWSJHDWJK_page-0001](https://github.com/charge1203/Coursera/assets/102739179/dd8f4631-d8aa-47a9-8bde-939b2f970e1d)
