@@ -1,5 +1,7 @@
-# Coursera
+# Coursera 수료증
 
+## Google ML Bootcamp 
+<br>
 ![Coursera EYA8DJ5AGSBG_page-0001](https://github.com/charge1203/Coursera/assets/102739179/ae7dda17-279e-4749-955d-eb1ba2e9c134)
 ![Coursera 2H2SWSJHDWJK_page-0001](https://github.com/charge1203/Coursera/assets/102739179/dd8f4631-d8aa-47a9-8bde-939b2f970e1d)
 ![Coursera 9GBLPE7HYUX4_page-0001](https://github.com/charge1203/Coursera/assets/102739179/0dc66cd7-7b0b-4ac2-9aee-fd9e49d7da19)
